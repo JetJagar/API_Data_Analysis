@@ -1,2 +1,5 @@
 # Adding config.py file.
 config.py
+
+# adding pycache folder
+_pycache_
